@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include <time.h>
 
-int *A;                  // Shared array A
+int *A;                  // Shksdamamsals,l,ared array A
 int *C;                  // Shared array C
 int **B;                 // Shared array B of pointers
 int N, T;                // Number of integers and number of threads
