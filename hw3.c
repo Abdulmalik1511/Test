@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <time.h>
-
+// jffskljlfldkksdlkd
 int *A;                  // Shksdamamsals,l,ared array A
 int *C;                  // Shared array C
 int **B;                 // Shared array B of pointers
